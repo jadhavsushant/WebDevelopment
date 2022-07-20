@@ -1,0 +1,36 @@
+body {
+  background-color: #eaf6f6;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+/* Header style here */
+h1 {
+  color: #ff0063;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+  letter-spacing: 1px;
+}
+h2 {
+  color: #ff0063;
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 20px;
+}
+h3 {
+  color: #ff0063;
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 20px;
+  font-style: italic;
+}
+
+
+strong {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color:gray;
+}
